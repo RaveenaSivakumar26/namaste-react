@@ -22,3 +22,21 @@ Adding git command:
 4. git add .
 5. git commit -m "episode-01"
 
+# Parcel
+- Dev Build
+- Local Server
+- HMR(Hot Module Replacement)
+- It has File watching algorithm written in C++ and as soon as we make any changes it will build immediately and show in ui.
+- It caches for faster builds. Parcel-cache binary file
+- Image Optimization
+- Minification
+- Bundling
+- File compress
+- Consistent Hashing
+- Code Splitting
+- Differential bundling -  to support different browsers(old/new)
+- Diagnostic
+- Error Handling
+- HTTP's
+- Different dev and prod bundles
+ 
