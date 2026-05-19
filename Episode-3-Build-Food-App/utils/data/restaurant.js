@@ -447,7 +447,7 @@ export default [
         "restaurantOfferPresentationInfo": {},
         "externalRatings": {
             "aggregatedRating": {
-                "rating": "4.2",
+                "rating": "3.5",
                 "ratingCount": "3.1K+"
             },
             "source": "GOOGLE",
@@ -907,64 +907,596 @@ export default [
         },
         "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
     },
-     {
-                                            "id": "257162",
-                                            "name": "The Brooklyn Creamery - Ice Creams & Desserts",
-                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/4/16/3bf6cf62-64f2-49db-bc28-99e104b3af82_257162.JPG",
-                                            "locality": "Mahaveer Colony",
-                                            "areaName": "Vepery",
-                                            "costForTwo": "₹200 for two",
-                                            "cuisines": [
-                                                "Ice Cream",
-                                                "Desserts",
-                                                "Healthy Food"
-                                            ],
-                                            "avgRating": 4.6,
-                                            "veg": true,
-                                            "parentId": "771817",
-                                            "avgRatingString": "4.6",
-                                            "totalRatingsString": "1.1K+",
-                                            "sla": {
-                                                "deliveryTime": 28,
-                                                "lastMileTravel": 1.9,
-                                                "serviceability": "SERVICEABLE",
-                                                "slaString": "25-30 mins",
-                                                "lastMileTravelString": "1.9 km",
-                                                "iconType": "ICON_TYPE_EMPTY"
-                                            },
-                                            "availability": {
-                                                "nextCloseTime": "2026-05-13 01:30:00",
-                                                "opened": true
-                                            },
-                                            "badges": {},
-                                            "isOpen": true,
-                                            "type": "F",
-                                            "badgesV2": {
-                                                "entityBadges": {
-                                                    "imageBased": {},
-                                                    "textBased": {},
-                                                    "textExtendedBadges": {}
-                                                }
-                                            },
-                                            "aggregatedDiscountInfoV3": {
-                                                "header": "ITEMS",
-                                                "subHeader": "AT ₹59"
-                                            },
-                                            "differentiatedUi": {
-                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                                                "differentiatedUiMediaDetails": {
-                                                    "lottie": {},
-                                                    "video": {}
-                                                }
-                                            },
-                                            "reviewsSummary": {},
-                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                                            "restaurantOfferPresentationInfo": {},
-                                            "externalRatings": {
-                                                "aggregatedRating": {
-                                                    "rating": "--"
-                                                }
-                                            },
-                                            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                                        },
+    {
+        "id": "257162",
+        "name": "The Brooklyn Creamery - Ice Creams & Desserts",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/4/16/3bf6cf62-64f2-49db-bc28-99e104b3af82_257162.JPG",
+        "locality": "Mahaveer Colony",
+        "areaName": "Vepery",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+            "Ice Cream",
+            "Desserts",
+            "Healthy Food"
+        ],
+        "avgRating": 4.6,
+        "veg": true,
+        "parentId": "771817",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "1.1K+",
+        "sla": {
+            "deliveryTime": 28,
+            "lastMileTravel": 1.9,
+            "serviceability": "SERVICEABLE",
+            "slaString": "25-30 mins",
+            "lastMileTravelString": "1.9 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2026-05-13 01:30:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "ITEMS",
+            "subHeader": "AT ₹59"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+        "id": "383374",
+        "name": "Kwality Wall's Ice Cream And More",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/20/12a593f5-8d11-4e98-b784-818e1b56a5d9_383374.JPG",
+        "locality": "Venkatesa Bathan Street",
+        "areaName": "Purasawalkam",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+            "Desserts",
+            "Ice Cream",
+            "Ice Cream Cakes"
+        ],
+        "avgRating": 4.6,
+        "veg": true,
+        "parentId": "582",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "1.4K+",
+        "sla": {
+            "deliveryTime": 32,
+            "lastMileTravel": 2.5,
+            "serviceability": "SERVICEABLE",
+            "slaString": "30-35 mins",
+            "lastMileTravelString": "2.5 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2026-05-12 23:45:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "pureveg"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "pureveg",
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "theme": ""
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "₹166 OFF",
+            "subHeader": "ABOVE ₹1299",
+            "discountTag": "FLAT DEAL",
+            "headerTypeV2": 12
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+        "id": "801309",
+        "name": "Makhani Darbar",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/20/2107339d-38f9-4c89-990b-dba9908fbb5d_801309.JPG",
+        "locality": "Triplicane",
+        "areaName": "Bharathi Salai",
+        "costForTwo": "₹500 for two",
+        "cuisines": [
+            "Kebabs",
+            "Mughlai",
+            "Beverages",
+            "Desserts"
+        ],
+        "avgRating": 4.4,
+        "parentId": "478595",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "79",
+        "sla": {
+            "deliveryTime": 46,
+            "lastMileTravel": 5,
+            "serviceability": "SERVICEABLE",
+            "slaString": "45-50 mins",
+            "lastMileTravelString": "5.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2026-05-12 23:59:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "₹166 OFF",
+            "subHeader": "ABOVE ₹499",
+            "discountTag": "FLAT DEAL",
+            "headerTypeV2": 12
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+        "id": "53934",
+        "name": "Ibaco",
+        "cloudinaryImageId": "kujznwgh3g3tdqqrmlhu",
+        "locality": "Vepery",
+        "areaName": "Vepery",
+        "costForTwo": "₹800 for two",
+        "cuisines": [
+            "Ice Cream",
+            "Desserts"
+        ],
+        "avgRating": 4.7,
+        "veg": true,
+        "parentId": "3481",
+        "avgRatingString": "4.7",
+        "totalRatingsString": "3.1K+",
+        "sla": {
+            "deliveryTime": 32,
+            "lastMileTravel": 2.4,
+            "serviceability": "SERVICEABLE",
+            "slaString": "30-35 mins",
+            "lastMileTravelString": "2.4 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2026-05-12 23:00:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "brand_cards/Badges%202026/43_Best%20in%20Cakes%20&%20Desserts2026.png",
+                    "description": "Best in Cakes & Desserts"
+                },
+                {
+                    "imageId": "brand_cards/Badges%202026/56_Best%20in%20Ice%20Cream2026.png",
+                    "description": "Best in Ice Cream"
+                },
+                {
+                    "imageId": "newg.png",
+                    "description": "Gourmet"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "Best in Cakes & Desserts",
+                                "imageId": "brand_cards/Badges%202026/43_Best%20in%20Cakes%20&%20Desserts2026.png",
+                                "theme": ""
+                            }
+                        },
+                        {
+                            "attributes": {
+                                "description": "Best in Ice Cream",
+                                "imageId": "brand_cards/Badges%202026/56_Best%20in%20Ice%20Cream2026.png",
+                                "theme": ""
+                            }
+                        },
+                        {
+                            "attributes": {
+                                "description": "Gourmet",
+                                "imageId": "newg.png",
+                                "theme": ""
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "30% OFF",
+            "subHeader": "UPTO ₹75"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "4.4",
+                "ratingCount": "905"
+            },
+            "source": "GOOGLE",
+            "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+        "id": "472731",
+        "name": "Havmor Havfunn Ice Cream",
+        "cloudinaryImageId": "49845b494b1e637209b7bd1c7ca184ad",
+        "locality": "Royapuram",
+        "areaName": "Royapuram",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+            "Ice Cream",
+            "Cakes",
+            "Desserts",
+            "Beverages"
+        ],
+        "avgRating": 4.6,
+        "parentId": "94570",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "422",
+        "sla": {
+            "deliveryTime": 35,
+            "lastMileTravel": 6.1,
+            "serviceability": "SERVICEABLE",
+            "slaString": "35-40 mins",
+            "lastMileTravelString": "6.1 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2026-05-12 23:59:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "4.4",
+                "ratingCount": "244"
+            },
+            "source": "GOOGLE",
+            "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+        "id": "639436",
+        "name": "Dum Safar Biryani",
+        "cloudinaryImageId": "1154cffac2453eb0bf7fdda7e5ea1659",
+        "locality": "Bergamo Mall",
+        "areaName": "KNK ROAD",
+        "costForTwo": "₹500 for two",
+        "cuisines": [
+            "Biryani",
+            "Hyderabadi",
+            "Kebabs",
+            "North Indian",
+            "barbeque"
+        ],
+        "avgRating": 3.9,
+        "parentId": "351013",
+        "avgRatingString": "3.9",
+        "totalRatingsString": "918",
+        "sla": {
+            "deliveryTime": 43,
+            "lastMileTravel": 5.5,
+            "serviceability": "SERVICEABLE",
+            "slaString": "40-45 mins",
+            "lastMileTravelString": "5.5 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2026-05-12 23:30:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "66% OFF",
+            "subHeader": "UPTO ₹126",
+            "headerTypeV2": 12
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+        "id": "7726",
+        "name": "Samco",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/4/4/df33e7eb-6326-4446-ba6c-c023d6b74599_7726.jpg",
+        "locality": "Alwarpet",
+        "areaName": "Alwarpet",
+        "costForTwo": "₹500 for two",
+        "cuisines": [
+            "Biryani",
+            "South Indian",
+            "Chinese",
+            "Arabian",
+            "Kerala",
+            "Mughlai"
+        ],
+        "avgRating": 4.5,
+        "parentId": "1235",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "63K+",
+        "sla": {
+            "deliveryTime": 48,
+            "lastMileTravel": 8.1,
+            "serviceability": "SERVICEABLE",
+            "slaString": "45-50 mins",
+            "lastMileTravelString": "8.1 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2026-05-12 23:59:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "brand_cards/Badges%202026/84_Best%20in%20Arabic2026.png",
+                    "description": "Best in Arabic"
+                },
+                {
+                    "imageId": "brand_cards/Badges%202026/97_Best%20in%20Malabar2026.png",
+                    "description": "Best in Malabar"
+                },
+                {
+                    "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                    "description": "OnlyOnSwiggy"
+                }
+            ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "Best in Arabic",
+                                "imageId": "brand_cards/Badges%202026/84_Best%20in%20Arabic2026.png",
+                                "theme": ""
+                            }
+                        },
+                        {
+                            "attributes": {
+                                "description": "Best in Malabar",
+                                "imageId": "brand_cards/Badges%202026/97_Best%20in%20Malabar2026.png",
+                                "theme": ""
+                            }
+                        },
+                        {
+                            "attributes": {
+                                "description": "OnlyOnSwiggy",
+                                "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                                "theme": ""
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "4.4",
+                "ratingCount": "5.6K+"
+            },
+            "source": "GOOGLE",
+            "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+        "id": "33457",
+        "name": "Buhari",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/11/bf3eb918-ff7f-4b63-bde6-0cc4caee479b_33457.sss.jpg",
+        "locality": "Purasawalkam - Buhari",
+        "areaName": "Purasawalkam",
+        "costForTwo": "₹600 for two",
+        "cuisines": [
+            "Biryani",
+            "Chinese",
+            "South Indian",
+            "Arabian",
+            "Barbecue",
+            "Seafood",
+            "Desserts",
+            "Beverages"
+        ],
+        "avgRating": 4.2,
+        "parentId": "164",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "75K+",
+        "sla": {
+            "deliveryTime": 32,
+            "lastMileTravel": 2.3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "30-40 mins",
+            "lastMileTravelString": "2.3 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2026-05-12 23:59:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "₹266 OFF",
+            "subHeader": "ABOVE ₹599",
+            "discountTag": "FLAT DEAL",
+            "headerTypeV2": 12
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    }
+
 ]

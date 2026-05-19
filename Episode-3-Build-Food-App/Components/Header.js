@@ -1,3 +1,5 @@
+
+import { LOGO_URL } from '../utils/constants';
 import './styles.css';
 
 const Header = () => {
@@ -5,7 +7,7 @@ const Header = () => {
     <div className="header">
       <div className="logo">
         <img
-          src="https://png.pngtree.com/png-vector/20250217/ourmid/pngtree-unique-food-logo-png-image_15488394.png"
+          src={LOGO_URL}
           alt="logo"
           width={150}
           height={100}
